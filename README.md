@@ -1,3 +1,1 @@
-# Hello, this is just a bunch of random games.
-Thanks,
-@beaudenison
+# Hello, this is just a bunch of random simple html games
